@@ -1,7 +1,3 @@
-AEA
-===
-
-Annotation Enrichment Analysis http://arxiv.org/abs/1208.412
 Information for AnnotationEnrichmentAnalysis.c.
 Written by Kimberly Glass (kglass@jimmy.harvard.edu), available under GPL.  As academic code it is provided 
 without warranty.  Please contact the author with any comments/questions/concerns.
@@ -55,15 +51,3 @@ use the OntologyAnnotations.c code provided with this distribution. This code wa
 files as supplied by the Gene Ontology consortium (available geneontology.org/downloads). Note, however, that the 
 formatting details of the files provided at geneontology.org appear to have changed since this code was written, 
 and there might be some memory issues if you download the most recent annotations from the Gene Ontology website.
-
-
----
-
-CHANGES by yy
-=============
-
-- Fixed code to compile on g++ 4.8.2 (ubuntu 14.04)
-- Added **Makefile**
-
-//wbr, yy
-
